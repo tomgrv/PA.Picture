@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenceUrl>https://raw.githubusercontent.com/perspicapps/toolbox/master/LICENCE</licenceUrl>
+    <licenseUrl>https://raw.githubusercontent.com/perspicapps/toolbox/master/LICENCE</licenseUrl>
     <projectUrl>http://perspicapps.github.io/toolbox</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/perspicapps/perspicapps.github.io/master/icons/logo-100.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
